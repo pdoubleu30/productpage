@@ -19,6 +19,8 @@ body {
 
 .container1 {
     background-color: hsl(30, 38%, 92%);
+    border-top-right-radius: .5em;
+    border-top-left-radius: .5em;
 }
 
 .perfume {
